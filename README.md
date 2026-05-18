@@ -1,1 +1,1 @@
-# finesse_ai
+# finwise_ai
